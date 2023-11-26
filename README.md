@@ -1,4 +1,4 @@
-# book-sharing-system
+# Book sharing system
 
 This project is a platform that enables a person-to-person book sharing system. A person-to-person book sharing system is a decentralized and collaborative approach to sharing books among individuals directly, without the involvement of centralized institutions like libraries.
 
